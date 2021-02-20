@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Week_6_BG_2.png">
+	<!-- Created with Adobe Animate version 21.0.2.37893 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="background 20000" x="0" y="0" width="315" height="237"/>
+	<SubTexture name="background 20001" x="315" y="0" width="315" height="237"/>
+	<SubTexture name="background 20002" x="630" y="0" width="315" height="237"/>
+	<SubTexture name="background 20003" x="945" y="0" width="315" height="237"/>
+	<SubTexture name="background 20004" x="1260" y="0" width="315" height="237"/>
+	<SubTexture name="background 20005" x="1575" y="0" width="315" height="237"/>
+	<SubTexture name="background 20006" x="1890" y="0" width="315" height="237"/>
+	<SubTexture name="background 20007" x="2205" y="0" width="315" height="237"/>
+	<SubTexture name="background 20008" x="2520" y="0" width="315" height="237"/>
+	<SubTexture name="background 20009" x="2835" y="0" width="315" height="237"/>
+	<SubTexture name="background 20010" x="3150" y="0" width="315" height="237"/>
+	<SubTexture name="background 20011" x="3465" y="0" width="315" height="237"/>
+	<SubTexture name="background 20012" x="3780" y="0" width="315" height="237"/>
+	<SubTexture name="background 20013" x="0" y="237" width="315" height="237"/>
+	<SubTexture name="background 20014" x="315" y="237" width="315" height="237"/>
+	<SubTexture name="background 20015" x="630" y="237" width="315" height="237"/>
+	<SubTexture name="background 20016" x="945" y="237" width="315" height="237"/>
+	<SubTexture name="background 20017" x="1260" y="237" width="315" height="237"/>
+	<SubTexture name="background 20018" x="1575" y="237" width="315" height="237"/>
+	<SubTexture name="background 20019" x="1890" y="237" width="315" height="237"/>
+	<SubTexture name="background 20020" x="2205" y="237" width="315" height="237"/>
+	<SubTexture name="background 20021" x="2520" y="237" width="315" height="237"/>
+	<SubTexture name="background 20022" x="2835" y="237" width="315" height="237"/>
+	<SubTexture name="background 20023" x="3150" y="237" width="315" height="237"/>
+	<SubTexture name="background 20024" x="3465" y="237" width="315" height="237"/>
+	<SubTexture name="background 20025" x="3780" y="237" width="315" height="237"/>
+	<SubTexture name="background 20026" x="0" y="474" width="315" height="237"/>
+	<SubTexture name="background 20027" x="315" y="474" width="315" height="237"/>
+	<SubTexture name="background 20028" x="630" y="474" width="315" height="237"/>
+	<SubTexture name="background 20029" x="945" y="474" width="315" height="237"/>
+	<SubTexture name="background 20030" x="1260" y="474" width="315" height="237"/>
+	<SubTexture name="background 20031" x="1575" y="474" width="315" height="237"/>
+	<SubTexture name="background 20032" x="1890" y="474" width="315" height="237"/>
+	<SubTexture name="background 20033" x="2205" y="474" width="315" height="237"/>
+	<SubTexture name="background 20034" x="2520" y="474" width="315" height="237"/>
+	<SubTexture name="background 20035" x="2835" y="474" width="315" height="237"/>
+	<SubTexture name="background 20036" x="3150" y="474" width="315" height="237"/>
+	<SubTexture name="background 20037" x="3465" y="474" width="315" height="237"/>
+	<SubTexture name="background 20038" x="3780" y="474" width="315" height="237"/>
+	<SubTexture name="background 20039" x="0" y="711" width="315" height="237"/>
+	<SubTexture name="background 20040" x="315" y="711" width="315" height="237"/>
+	<SubTexture name="background 20041" x="630" y="711" width="315" height="237"/>
+	<SubTexture name="background 20042" x="945" y="711" width="315" height="237"/>
+	<SubTexture name="background 20043" x="1260" y="711" width="315" height="237"/>
+	<SubTexture name="background 20044" x="1575" y="711" width="315" height="237"/>
+	<SubTexture name="background 20045" x="1890" y="711" width="315" height="237"/>
+	<SubTexture name="background 20046" x="2205" y="711" width="315" height="237"/>
+	<SubTexture name="background 20047" x="2520" y="711" width="315" height="237"/>
+	<SubTexture name="background 20048" x="2835" y="711" width="315" height="237"/>
+	<SubTexture name="background 20049" x="3150" y="711" width="315" height="237"/>
+</TextureAtlas>
