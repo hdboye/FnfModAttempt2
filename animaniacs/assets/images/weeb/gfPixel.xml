@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gfPixel.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GF IDLE0000" x="0" y="0" width="85" height="152" frameX="0" frameY="-1" frameWidth="92" frameHeight="153"/>
+	<SubTexture name="GF IDLE0001" x="0" y="0" width="85" height="152" frameX="0" frameY="-1" frameWidth="92" frameHeight="153"/>
+	<SubTexture name="GF IDLE0002" x="85" y="0" width="85" height="153" frameX="0" frameY="0" frameWidth="92" frameHeight="153"/>
+	<SubTexture name="GF IDLE0003" x="85" y="0" width="85" height="153" frameX="0" frameY="0" frameWidth="92" frameHeight="153"/>
+	<SubTexture name="GF IDLE0004" x="170" y="0" width="85" height="153" frameX="0" frameY="0" frameWidth="92" frameHeight="153"/>
+	<SubTexture name="GF IDLE0005" x="255" y="0" width="85" height="153" frameX="0" frameY="0" frameWidth="92" frameHeight="153"/>
+	<SubTexture name="GF IDLE0006" x="340" y="0" width="85" height="153" frameX="0" frameY="0" frameWidth="92" frameHeight="153"/>
+	<SubTexture name="GF IDLE0007" x="425" y="0" width="85" height="152" frameX="0" frameY="-1" frameWidth="92" frameHeight="153"/>
+	<SubTexture name="GF IDLE0008" x="425" y="0" width="85" height="152" frameX="0" frameY="-1" frameWidth="92" frameHeight="153"/>
+	<SubTexture name="GF IDLE0009" x="425" y="0" width="85" height="152" frameX="0" frameY="-1" frameWidth="92" frameHeight="153"/>
+	<SubTexture name="GF IDLE0010" x="0" y="153" width="85" height="152" frameX="0" frameY="-1" frameWidth="92" frameHeight="153"/>
+	<SubTexture name="GF IDLE0011" x="0" y="153" width="85" height="152" frameX="0" frameY="-1" frameWidth="92" frameHeight="153"/>
+	<SubTexture name="GF IDLE0012" x="0" y="153" width="85" height="152" frameX="0" frameY="-1" frameWidth="92" frameHeight="153"/>
+	<SubTexture name="GF IDLE0013" x="85" y="153" width="85" height="152" frameX="0" frameY="-1" frameWidth="92" frameHeight="153"/>
+	<SubTexture name="GF IDLE0014" x="85" y="153" width="85" height="152" frameX="0" frameY="-1" frameWidth="92" frameHeight="153"/>
+	<SubTexture name="GF IDLE0015" x="170" y="153" width="91" height="151" frameX="0" frameY="-2" frameWidth="92" frameHeight="153"/>
+	<SubTexture name="GF IDLE0016" x="170" y="153" width="91" height="151" frameX="0" frameY="-2" frameWidth="92" frameHeight="153"/>
+	<SubTexture name="GF IDLE0017" x="261" y="153" width="92" height="150" frameX="0" frameY="-3" frameWidth="92" frameHeight="153"/>
+	<SubTexture name="GF IDLE0018" x="261" y="153" width="92" height="150" frameX="0" frameY="-3" frameWidth="92" frameHeight="153"/>
+	<SubTexture name="GF IDLE0019" x="353" y="153" width="91" height="151" frameX="0" frameY="-2" frameWidth="92" frameHeight="153"/>
+	<SubTexture name="GF IDLE0020" x="0" y="305" width="91" height="151" frameX="0" frameY="-2" frameWidth="92" frameHeight="153"/>
+	<SubTexture name="GF IDLE0021" x="91" y="305" width="89" height="151" frameX="0" frameY="-2" frameWidth="92" frameHeight="153"/>
+	<SubTexture name="GF IDLE0022" x="180" y="305" width="85" height="152" frameX="0" frameY="-1" frameWidth="92" frameHeight="153"/>
+	<SubTexture name="GF IDLE0023" x="180" y="305" width="85" height="152" frameX="0" frameY="-1" frameWidth="92" frameHeight="153"/>
+	<SubTexture name="GF IDLE0024" x="180" y="305" width="85" height="152" frameX="0" frameY="-1" frameWidth="92" frameHeight="153"/>
+	<SubTexture name="GF IDLE0025" x="0" y="153" width="85" height="152" frameX="0" frameY="-1" frameWidth="92" frameHeight="153"/>
+	<SubTexture name="GF IDLE0026" x="0" y="153" width="85" height="152" frameX="0" frameY="-1" frameWidth="92" frameHeight="153"/>
+	<SubTexture name="GF IDLE0027" x="0" y="153" width="85" height="152" frameX="0" frameY="-1" frameWidth="92" frameHeight="153"/>
+	<SubTexture name="GF IDLE0028" x="265" y="305" width="85" height="152" frameX="0" frameY="-1" frameWidth="92" frameHeight="153"/>
+	<SubTexture name="GF IDLE0029" x="265" y="305" width="85" height="152" frameX="0" frameY="-1" frameWidth="92" frameHeight="153"/>
+</TextureAtlas>
