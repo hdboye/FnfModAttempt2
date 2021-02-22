@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="TestBoxes.png">
+	<!-- Created with Adobe Animate version 21.0.3.38773 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Senpai Portrait Enter0000" x="0" y="0" width="62" height="55" frameX="0" frameY="0" frameWidth="71" frameHeight="55"/>
+	<SubTexture name="Senpai Portrait Enter0001" x="62" y="0" width="61" height="55" frameX="-4" frameY="0" frameWidth="71" frameHeight="55"/>
+	<SubTexture name="Senpai Portrait Enter0002" x="62" y="0" width="61" height="55" frameX="-4" frameY="0" frameWidth="71" frameHeight="55"/>
+	<SubTexture name="Senpai Portrait Enter0003" x="0" y="55" width="62" height="55" frameX="-8" frameY="0" frameWidth="71" frameHeight="55"/>
+	<SubTexture name="Senpai Portrait Enter0004" x="0" y="55" width="62" height="55" frameX="-8" frameY="0" frameWidth="71" frameHeight="55"/>
+	<SubTexture name="Senpai Portrait Enter0005" x="62" y="55" width="62" height="55" frameX="-9" frameY="0" frameWidth="71" frameHeight="55"/>
+	<SubTexture name="Senpai Portrait Enter0006" x="62" y="55" width="62" height="55" frameX="-9" frameY="0" frameWidth="71" frameHeight="55"/>
+	<SubTexture name="Senpai Portrait Enter0007" x="62" y="55" width="62" height="55" frameX="-9" frameY="0" frameWidth="71" frameHeight="55"/>
+</TextureAtlas>
