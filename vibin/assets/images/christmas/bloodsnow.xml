@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bloodsnow.png">
+	<!-- Created with Adobe Animate version 18.0.2.126 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bloodsnow0000" x="3557" y="0" width="3589" height="561" frameX="-43" frameY="0" frameWidth="3685" frameHeight="578"/>
+	<SubTexture name="bloodsnow0001" x="3557" y="0" width="3589" height="561" frameX="-43" frameY="0" frameWidth="3685" frameHeight="578"/>
+	<SubTexture name="bloodsnow0002" x="0" y="1706" width="3623" height="551" frameX="-34" frameY="0" frameWidth="3685" frameHeight="578"/>
+	<SubTexture name="bloodsnow0003" x="0" y="1706" width="3623" height="551" frameX="-34" frameY="0" frameWidth="3685" frameHeight="578"/>
+	<SubTexture name="bloodsnow0004" x="0" y="1155" width="3654" height="551" frameX="-31" frameY="0" frameWidth="3685" frameHeight="578"/>
+	<SubTexture name="bloodsnow0005" x="0" y="1155" width="3654" height="551" frameX="-31" frameY="0" frameWidth="3685" frameHeight="578"/>
+	<SubTexture name="bloodsnow0006" x="3457" y="4665" width="3491" height="431" frameX="-29" frameY="0" frameWidth="3685" frameHeight="578"/>
+	<SubTexture name="bloodsnow0007" x="3457" y="5096" width="3491" height="431" frameX="-29" frameY="0" frameWidth="3685" frameHeight="578"/>
+	<SubTexture name="bloodsnow0008" x="3494" y="2915" width="3478" height="440" frameX="-33" frameY="0" frameWidth="3685" frameHeight="578"/>
+	<SubTexture name="bloodsnow0009" x="3494" y="3355" width="3478" height="440" frameX="-33" frameY="0" frameWidth="3685" frameHeight="578"/>
+	<SubTexture name="bloodsnow0010" x="3441" y="7225" width="3450" height="406" frameX="-55" frameY="0" frameWidth="3685" frameHeight="578"/>
+	<SubTexture name="bloodsnow0011" x="3426" y="7631" width="3450" height="406" frameX="-55" frameY="0" frameWidth="3685" frameHeight="578"/>
+	<SubTexture name="bloodsnow0012" x="3447" y="6383" width="3441" height="421" frameX="-55" frameY="0" frameWidth="3685" frameHeight="578"/>
+	<SubTexture name="bloodsnow0013" x="3441" y="6804" width="3441" height="421" frameX="-55" frameY="0" frameWidth="3685" frameHeight="578"/>
+	<SubTexture name="bloodsnow0014" x="3457" y="5527" width="3429" height="428" frameX="-55" frameY="0" frameWidth="3685" frameHeight="578"/>
+	<SubTexture name="bloodsnow0015" x="3447" y="5955" width="3429" height="428" frameX="-55" frameY="0" frameWidth="3685" frameHeight="578"/>
+	<SubTexture name="bloodsnow0016" x="3465" y="3795" width="3488" height="435" frameX="0" frameY="0" frameWidth="3685" frameHeight="578"/>
+	<SubTexture name="bloodsnow0017" x="3465" y="4230" width="3488" height="435" frameX="0" frameY="0" frameWidth="3685" frameHeight="578"/>
+	<SubTexture name="bloodsnow0018" x="3623" y="1999" width="3460" height="458" frameX="-27" frameY="0" frameWidth="3685" frameHeight="578"/>
+	<SubTexture name="bloodsnow0019" x="3510" y="2457" width="3460" height="458" frameX="-27" frameY="0" frameWidth="3685" frameHeight="578"/>
+	<SubTexture name="bloodsnow0020" x="3654" y="1057" width="3420" height="471" frameX="-54" frameY="0" frameWidth="3685" frameHeight="578"/>
+	<SubTexture name="bloodsnow0021" x="3654" y="1528" width="3420" height="471" frameX="-54" frameY="0" frameWidth="3685" frameHeight="578"/>
+	<SubTexture name="bloodsnow0022" x="0" y="7589" width="3426" height="496" frameX="-55" frameY="0" frameWidth="3685" frameHeight="578"/>
+	<SubTexture name="bloodsnow0023" x="3557" y="561" width="3426" height="496" frameX="-55" frameY="0" frameWidth="3685" frameHeight="578"/>
+	<SubTexture name="bloodsnow0024" x="0" y="6579" width="3441" height="505" frameX="-55" frameY="0" frameWidth="3685" frameHeight="578"/>
+	<SubTexture name="bloodsnow0025" x="0" y="7084" width="3441" height="505" frameX="-55" frameY="0" frameWidth="3685" frameHeight="578"/>
+	<SubTexture name="bloodsnow0026" x="0" y="6063" width="3447" height="516" frameX="-55" frameY="0" frameWidth="3685" frameHeight="578"/>
+	<SubTexture name="bloodsnow0027" x="0" y="5532" width="3447" height="531" frameX="-55" frameY="0" frameWidth="3685" frameHeight="578"/>
+	<SubTexture name="bloodsnow0028" x="0" y="5001" width="3457" height="531" frameX="-49" frameY="0" frameWidth="3685" frameHeight="578"/>
+	<SubTexture name="bloodsnow0029" x="0" y="4461" width="3457" height="540" frameX="-49" frameY="0" frameWidth="3685" frameHeight="578"/>
+	<SubTexture name="bloodsnow0030" x="0" y="3379" width="3465" height="541" frameX="-45" frameY="0" frameWidth="3685" frameHeight="578"/>
+	<SubTexture name="bloodsnow0031" x="0" y="3920" width="3465" height="541" frameX="-45" frameY="0" frameWidth="3685" frameHeight="578"/>
+	<SubTexture name="bloodsnow0032" x="0" y="2824" width="3494" height="555" frameX="-42" frameY="0" frameWidth="3685" frameHeight="578"/>
+	<SubTexture name="bloodsnow0033" x="0" y="2824" width="3494" height="555" frameX="-42" frameY="0" frameWidth="3685" frameHeight="578"/>
+	<SubTexture name="bloodsnow0034" x="0" y="2257" width="3510" height="567" frameX="-45" frameY="0" frameWidth="3685" frameHeight="578"/>
+	<SubTexture name="bloodsnow0035" x="0" y="2257" width="3510" height="567" frameX="-45" frameY="0" frameWidth="3685" frameHeight="578"/>
+	<SubTexture name="bloodsnow0036" x="0" y="578" width="3533" height="577" frameX="-50" frameY="0" frameWidth="3685" frameHeight="578"/>
+	<SubTexture name="bloodsnow0037" x="0" y="578" width="3533" height="577" frameX="-50" frameY="0" frameWidth="3685" frameHeight="578"/>
+	<SubTexture name="bloodsnow0038" x="0" y="0" width="3557" height="578" frameX="-55" frameY="0" frameWidth="3685" frameHeight="578"/>
+	<SubTexture name="bloodsnow0039" x="0" y="0" width="3557" height="578" frameX="-55" frameY="0" frameWidth="3685" frameHeight="578"/>
+</TextureAtlas>

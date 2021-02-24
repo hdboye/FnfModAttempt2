@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Christmas_Background_Assets.png">
+	<!-- Created with Adobe Animate version 18.0.2.126 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="snowfall0000" x="0" y="0" width="4888" height="267" frameX="-43" frameY="0" frameWidth="4984" frameHeight="284"/>
+	<SubTexture name="snowfall0001" x="0" y="0" width="4888" height="267" frameX="-43" frameY="0" frameWidth="4984" frameHeight="284"/>
+	<SubTexture name="snowfall0002" x="0" y="267" width="4921" height="237" frameX="-35" frameY="-20" frameWidth="4984" frameHeight="284"/>
+	<SubTexture name="snowfall0003" x="0" y="267" width="4921" height="237" frameX="-35" frameY="-20" frameWidth="4984" frameHeight="284"/>
+	<SubTexture name="snowfall0004" x="0" y="504" width="4953" height="223" frameX="-31" frameY="-34" frameWidth="4984" frameHeight="284"/>
+	<SubTexture name="snowfall0005" x="0" y="504" width="4953" height="223" frameX="-31" frameY="-34" frameWidth="4984" frameHeight="284"/>
+	<SubTexture name="snowfall0006" x="0" y="727" width="4788" height="94" frameX="-30" frameY="-43" frameWidth="4984" frameHeight="284"/>
+	<SubTexture name="snowfall0007" x="0" y="821" width="4788" height="129" frameX="-30" frameY="-8" frameWidth="4984" frameHeight="284"/>
+	<SubTexture name="snowfall0008" x="0" y="950" width="4777" height="139" frameX="-33" frameY="-8" frameWidth="4984" frameHeight="284"/>
+	<SubTexture name="snowfall0009" x="0" y="1089" width="4777" height="122" frameX="-33" frameY="-25" frameWidth="4984" frameHeight="284"/>
+	<SubTexture name="snowfall0010" x="0" y="1211" width="4715" height="87" frameX="-89" frameY="-25" frameWidth="4984" frameHeight="284"/>
+	<SubTexture name="snowfall0011" x="0" y="1298" width="4715" height="78" frameX="-89" frameY="-34" frameWidth="4984" frameHeight="284"/>
+	<SubTexture name="snowfall0012" x="0" y="1376" width="4700" height="94" frameX="-95" frameY="-34" frameWidth="4984" frameHeight="284"/>
+	<SubTexture name="snowfall0013" x="0" y="1470" width="4700" height="85" frameX="-95" frameY="-43" frameWidth="4984" frameHeight="284"/>
+	<SubTexture name="snowfall0014" x="0" y="1555" width="4683" height="91" frameX="-100" frameY="-43" frameWidth="4984" frameHeight="284"/>
+	<SubTexture name="snowfall0015" x="0" y="1646" width="4683" height="78" frameX="-100" frameY="-56" frameWidth="4984" frameHeight="284"/>
+	<SubTexture name="snowfall0016" x="0" y="1724" width="4787" height="126" frameX="0" frameY="-16" frameWidth="4984" frameHeight="284"/>
+	<SubTexture name="snowfall0017" x="0" y="1850" width="4787" height="126" frameX="0" frameY="-16" frameWidth="4984" frameHeight="284"/>
+	<SubTexture name="snowfall0018" x="0" y="1976" width="4757" height="135" frameX="-28" frameY="-30" frameWidth="4984" frameHeight="284"/>
+	<SubTexture name="snowfall0019" x="0" y="2111" width="4757" height="135" frameX="-28" frameY="-30" frameWidth="4984" frameHeight="284"/>
+	<SubTexture name="snowfall0020" x="0" y="2246" width="4718" height="145" frameX="-55" frameY="-32" frameWidth="4984" frameHeight="284"/>
+	<SubTexture name="snowfall0021" x="0" y="2391" width="4718" height="145" frameX="-55" frameY="-32" frameWidth="4984" frameHeight="284"/>
+	<SubTexture name="snowfall0022" x="0" y="2536" width="4700" height="168" frameX="-79" frameY="-34" frameWidth="4984" frameHeight="284"/>
+	<SubTexture name="snowfall0023" x="0" y="2704" width="4700" height="168" frameX="-79" frameY="-34" frameWidth="4984" frameHeight="284"/>
+	<SubTexture name="snowfall0024" x="0" y="2872" width="4730" height="172" frameX="-65" frameY="-39" frameWidth="4984" frameHeight="284"/>
+	<SubTexture name="snowfall0025" x="0" y="3044" width="4730" height="172" frameX="-65" frameY="-39" frameWidth="4984" frameHeight="284"/>
+	<SubTexture name="snowfall0026" x="0" y="3216" width="4744" height="173" frameX="-57" frameY="-50" frameWidth="4984" frameHeight="284"/>
+	<SubTexture name="snowfall0027" x="0" y="3389" width="4744" height="187" frameX="-57" frameY="-50" frameWidth="4984" frameHeight="284"/>
+	<SubTexture name="snowfall0028" x="0" y="3576" width="4755" height="178" frameX="-50" frameY="-59" frameWidth="4984" frameHeight="284"/>
+	<SubTexture name="snowfall0029" x="0" y="3754" width="4755" height="187" frameX="-50" frameY="-59" frameWidth="4984" frameHeight="284"/>
+	<SubTexture name="snowfall0030" x="0" y="3941" width="4764" height="177" frameX="-45" frameY="-70" frameWidth="4984" frameHeight="284"/>
+	<SubTexture name="snowfall0031" x="0" y="4118" width="4764" height="177" frameX="-45" frameY="-70" frameWidth="4984" frameHeight="284"/>
+	<SubTexture name="snowfall0032" x="0" y="4295" width="4792" height="185" frameX="-42" frameY="-76" frameWidth="4984" frameHeight="284"/>
+	<SubTexture name="snowfall0033" x="0" y="4295" width="4792" height="185" frameX="-42" frameY="-76" frameWidth="4984" frameHeight="284"/>
+	<SubTexture name="snowfall0034" x="0" y="4480" width="4808" height="188" frameX="-45" frameY="-85" frameWidth="4984" frameHeight="284"/>
+	<SubTexture name="snowfall0035" x="0" y="4480" width="4808" height="188" frameX="-45" frameY="-85" frameWidth="4984" frameHeight="284"/>
+	<SubTexture name="snowfall0036" x="0" y="4668" width="4830" height="199" frameX="-51" frameY="-84" frameWidth="4984" frameHeight="284"/>
+	<SubTexture name="snowfall0037" x="0" y="4668" width="4830" height="199" frameX="-51" frameY="-84" frameWidth="4984" frameHeight="284"/>
+	<SubTexture name="snowfall0038" x="0" y="4867" width="4855" height="204" frameX="-55" frameY="-80" frameWidth="4984" frameHeight="284"/>
+	<SubTexture name="snowfall0039" x="0" y="4867" width="4855" height="204" frameX="-55" frameY="-80" frameWidth="4984" frameHeight="284"/>
+</TextureAtlas>
