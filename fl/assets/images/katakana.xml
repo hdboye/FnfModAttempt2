@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="katakana.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ゴ0000" x="0" y="0" width="53" height="59"/>
+	<SubTexture name="ゴ0001" x="0" y="0" width="53" height="59"/>
+	<SubTexture name="ゴ0002" x="53" y="0" width="53" height="59"/>
+	<SubTexture name="ゴ0003" x="53" y="0" width="53" height="59"/>
+	<SubTexture name="ド0000" x="106" y="0" width="45" height="55"/>
+	<SubTexture name="ド0001" x="106" y="0" width="45" height="55"/>
+	<SubTexture name="ド0002" x="151" y="0" width="45" height="55"/>
+	<SubTexture name="ド0003" x="151" y="0" width="45" height="55"/>
+	<SubTexture name="ラ0000" x="196" y="0" width="55" height="57"/>
+	<SubTexture name="ラ0001" x="196" y="0" width="55" height="57"/>
+	<SubTexture name="ラ0002" x="0" y="59" width="55" height="57"/>
+	<SubTexture name="ラ0003" x="0" y="59" width="55" height="57"/>
+</TextureAtlas>

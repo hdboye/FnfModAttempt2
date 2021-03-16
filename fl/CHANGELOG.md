@@ -5,33 +5,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [UNRELEASED]
-### Added
-- Rebindable controls ([Thanks to PKPenguin321 for the menu backbone work](https://github.com/ninjamuffin99/Funkin/pull/288))
-### Changed
-- Made it so you lose sliiiightly more health when you miss a note.
-- Removed the default HaxeFlixel pause screen when the game window loses focus, can get screenshots of the game easier hehehe
 ### Fixed
-- Idle animation bug with BF christmas and BF hair blow sprites ([Thanks to Injourn for the Pull Request!](https://github.com/ninjamuffin99/Funkin/pull/237))
-
-## [0.2.6] - 2021-01-20
-### Added
-- 3 NEW CHRISTMAS SONGS. 2 BY KAWAISPRITE, 1 BY BASSETFILMS!!!!! BF WITH DRIP! SANTA HANGIN OUT!
-- Enemy icons change when they you are winning a lot ([Thanks to pahaze for the Pull Request!](https://github.com/ninjamuffin99/Funkin/pull/138))
-- Holding CTRL in charting editor places notes on both sides
-- Q and E changes sustain lengths in note editor
-- Other charting editor workflow improvements
-- More hair physics
-- Heads appear at top of chart editor to help show which side ur charting for
-### Changed
-- Tweaked code relating to inputs, hopefully making notes that are close together more fair to hit
-### Removed
-- Removed APE
-### Fixed
-- Maybe fixed double notes / jump notes. Need to tweak it for balance, but should open things up for cooler charts in the future.
-- Old Verison popup screen weirdness ([Thanks to gedehari for the Pull Request!](https://github.com/ninjamuffin99/Funkin/pull/155))
 - Song no longer loops when finishing the song. ([Thanks Injourn for the Pull Request!](https://github.com/ninjamuffin99/Funkin/pull/132))
-- Screen wipe being cut off in the limo/mom stage. Should fill the whole screen now.
-- Boyfriend animations on hold notes, and pressing on repeating notes should behave differently
 
 ## [0.2.5] - 2020-12-27
 ### Added
